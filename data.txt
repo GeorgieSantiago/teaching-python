@@ -1,0 +1,4 @@
+API_HOST="https://jsonplaceholder.typicode.com"
+DEBUG=True
+KEY="RANDOM_KEY"
+
